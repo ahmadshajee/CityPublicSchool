@@ -43,10 +43,5 @@ A modern, responsive website for City Public School featuring a clean design wit
 
 This website is optimized for modern browsers and desktop viewing.
 
-## License
-
-This project is available for use under the MIT License.
-
----
 
 Created with ❤️ for City Public School 
